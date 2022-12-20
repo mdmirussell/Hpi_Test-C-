@@ -1,0 +1,15 @@
+C:\PROJECT RUN\C#\Hpi_Test\bin\Debug\net6.0\Hpi_Test.exe
+C:\PROJECT RUN\C#\Hpi_Test\bin\Debug\net6.0\Hpi_Test.deps.json
+C:\PROJECT RUN\C#\Hpi_Test\bin\Debug\net6.0\Hpi_Test.runtimeconfig.json
+C:\PROJECT RUN\C#\Hpi_Test\bin\Debug\net6.0\Hpi_Test.dll
+C:\PROJECT RUN\C#\Hpi_Test\bin\Debug\net6.0\Hpi_Test.pdb
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.csproj.AssemblyReference.cache
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.AssemblyInfoInputs.cache
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.AssemblyInfo.cs
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.csproj.CoreCompileInputs.cache
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.dll
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\refint\Hpi_Test.dll
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.pdb
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\Hpi_Test.genruntimeconfig.cache
+C:\PROJECT RUN\C#\Hpi_Test\obj\Debug\net6.0\ref\Hpi_Test.dll
