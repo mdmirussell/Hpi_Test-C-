@@ -14,7 +14,7 @@ namespace hpi_test{
 
 
 // While Loop
-Console.WriteLine("While Loop Start ");
+     Console.WriteLine("While Loop Start ");
        int num = 1;
       while(num  <=10){ 
          Console.WriteLine("While Loop Run time {0}",num);
